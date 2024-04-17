@@ -9,7 +9,7 @@
 
 </div>
 
-<h3>Social Media</h3>
+<h3>Social Media:</h3>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=a371f7)](https://www.linkedin.com/in/maria-clara-chiromito-trombeta-9b7853298/)
